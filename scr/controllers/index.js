@@ -54,7 +54,7 @@ const renderUIItem = (data, type) => {
     let content = '';
     data.forEach((item) => {
         content += `
-        <div class="col-4">
+        <div class="col-3">
         <img class="w-50" src="../../assets/images/${type}/${item.imgSrc_jpg}" />
         <h4>${item.name}</h4>
         <p>${item.type}</p>
