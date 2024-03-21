@@ -40,7 +40,7 @@
   margin: 0 auto;
   position: relative;
 }
-.body {
+#body {
   width: 250px;
   height: 500px;
   background: url("./../images/allbody/bodynew.png");
@@ -48,7 +48,7 @@
   top: 12%;
   left: 22%;
 }
-.bikinitop {
+#topclothes {
   width: 250px;
   height: 500px;
   background: url("./../images/allbody/bikini_branew.png");
@@ -58,7 +58,7 @@
   z-index: 1;
 }
 
-.bikinibottom {
+#botclothes {
   width: 250px;
   height: 500px;
   background: url("./../images/allbody/bikini_pantsnew.png");
@@ -68,7 +68,7 @@
   z-index: 1;
 }
 
-.model {
+#model {
   width: 60px;
   height: 77px;
   background: url("./../images/model/1000new.png");
@@ -78,7 +78,7 @@
   z-index: 1;
 }
 
-.handbag {
+#handbags {
   width: 500px;
   height: 1000px;
   position: absolute;
@@ -88,7 +88,7 @@
   z-index: 4;
 }
 
-.necklace {
+#necklaces {
   width: 500px;
   height: 1000px;
   position: absolute;
@@ -98,7 +98,7 @@
   z-index: 4;
 }
 
-.hairstyle {
+#hairstyle {
   width: 1000px;
   height: 1000px;
   position: absolute;
@@ -108,7 +108,7 @@
   z-index: 4;
 }
 
-.feet {
+#shoes {
   width: 500px;
   height: 1000px;
   background: url("./../images/shoes/shoes1.png");
@@ -119,7 +119,7 @@
   z-index: 1;
 }
 
-.background {
+#background {
   width: 900px;
   height: 1500px;
   background-image: url(./../images/background/background1.jpg);
